@@ -1,6 +1,6 @@
 # Data_Mining
 
-This assignments shows how I have used gpt-engineer to develop a application, to run unit tests, to refactor the code, etc.
+This assignment shows how I have used gpt-engineer to develop a application, to run unit tests, to refactor the code, etc.
 Step-by-step guide:
 
 **Setup:**
