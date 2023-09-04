@@ -35,9 +35,7 @@ gpt-engineer --help lets you see all available options.
 **Application Demo:**
 ---
 
+A link to the video that shows an application where I have used **github copilot** and **gpt-engineer** to perform test cases and refactoring.
 [![Song_Recommendation_System](https://github.com/Mansiiv/Data_Mining/assets/47898293/e1b257b0-7e48-47ae-8784-3c4e663d9382)](https://github.com/Mansiiv/Data_Mining/assets/47898293/e1b257b0-7e48-47ae-8784-3c4e663d9382)
 
-A link to the video that shows an application where I have used **github copilot** and **gpt-engineer** to perform test cases and refactoring.
-https://github.com/Mansiiv/Data_Mining/assets/47898293/e1b257b0-7e48-47ae-8784-3c4e663d9382
-<a href="https://github.com/Mansiiv/Data_Mining/assets/47898293/e1b257b0-7e48-47ae-8784-3c4e663d9382">APPLICATION-DEMO</a>
 
