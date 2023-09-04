@@ -5,8 +5,9 @@ Step-by-step guide:
 
 **Setup:**
 
-1. For stabel release use: python -m pip install gpt-engineer
-2. Download <a href="https://code.visualstudio.com/download">VS Code</a>
+1.  Download <a href="https://code.visualstudio.com/download">VS Code</a>, if you haven't already.
+2.  For stable release use: `python -m pip install gpt-engineer`
+3.
 
 
 
