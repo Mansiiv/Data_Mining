@@ -6,8 +6,12 @@ Step-by-step guide:
 **Setup:**
 
 1.  Download <a href="https://code.visualstudio.com/download">VS Code</a>, if you haven't already.
-2.  For stable release use: `python -m pip install gpt-engineer`
-3.
+2.  Inside the command prompt use below command for stable environment > `python -m pip install gpt-engineer`
+3.  Then, write ``` conda create <env-name> python="version" conda activate <env-name> ```
+4.  Then set API key:
+   ` export OPENAI_API_KEY = [your api key]` for macOS
+   ` set OPENAI_API_KEY = [your api key]` for windows
+
 
 
 
