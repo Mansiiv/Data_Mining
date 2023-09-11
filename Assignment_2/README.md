@@ -1,17 +1,13 @@
-# Data_Mining
+# Pycaret
 
-This assignment shows how I have used gpt-engineer to develop a application, to run unit tests, to refactor the code, etc.
+This assignment shows how I have used google colab and pycaret to perfrom a AutoML operations.
 Step-by-step guide:
 
 **Setup:**
 
-1.  Download <a href="https://code.visualstudio.com/download">VS Code</a>, if you haven't already.
-2.  Inside the command prompt use below command for stable environment > `python -m pip install gpt-engineer`
-3.  Then, write ``` conda create <env-name> python="version"
-    conda activate <env-name> ```
-5.  Then set API key:
-   ` export OPENAI_API_KEY = [your api key]` for macOS
-   ` set OPENAI_API_KEY = [your api key]` for windows
+1.  Refer <a href="[https://pycaret.org/](https://pycaret.org/)">Pycaret</a>, if you haven't already.
+2.  Inside the command prompt install PyCaret with Python's pip package manager > `pip install pycaret`
+3.  Go to <a href="[https://colab.research.google.com/?utm_source=scs-index](https://colab.research.google.com/?utm_source=scs-index)">Google Colab</a>
 
 **How to use:**
 ---
