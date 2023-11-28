@@ -16,7 +16,7 @@ This repository is part of the individual assignment for CMPE 255, focusing on t
 ## Links
 - <a href="https://medium.com/@mansivekaria09/demystifying-recommender-systems-revolutionizing-decision-making-in-the-digital-age-f0e425cafbdf"> Medium Article</a>
 - <a href="https://www.slideshare.net/mansivekaria09/a-survey-of-recommender-system-techniques-and-the-ecommerce-domainpptx"> Slideshare Presentation</a> 
-- [Video Presentation](#add-your-github-video-link-here)
+- [Video Presentation](https://drive.google.com/file/d/1u5woGr1l7pLCirJ92_Lw_6TxxD2q4yF1/view?usp=sharing)
 - [Research Paper](https://arxiv.org/pdf/2208.07399.pdf)
  
 ## Instructions for Use
