@@ -1,4 +1,4 @@
-# Dimensionality Reduction Techniques in Google Colab
+# Dimensionality Reduction Techniques 
 
 ## Overview
 This guide outlines creating a Google Colab notebook to demonstrate various dimensionality reduction techniques, including PCA, SVD, MDS, ISOMap, LLE, UMAP, and t-SNE, with different datasets.
